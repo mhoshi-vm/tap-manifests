@@ -30,7 +30,7 @@ spec:
         carto.run/workload-name: py-gitops
     spec:
       containers:
-      - image: 792026016066.dkr.ecr.ap-northeast-1.amazonaws.com/115e7280-80e2-11ed-8871-0e1629f28a1d/tap-supply-chain/py-gitops-dev1@sha256:b4c42355fea5a4d49e11879693f7d69816ec7031ddf24df4eda27ff311d344dc
+      - image: 792026016066.dkr.ecr.ap-northeast-1.amazonaws.com/115e7280-80e2-11ed-8871-0e1629f28a1d/tap-supply-chain/py-gitops-dev1@sha256:3c289bca1981c029459948958f3206de782e6b81b36696401d277029674f8043
         name: workload
         resources: {}
         securityContext:
